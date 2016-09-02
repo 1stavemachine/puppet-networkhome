@@ -1,4 +1,4 @@
-class dock()
+class networkhome()
 
 {
     mac_profiles_handler::manage { 'com.1stavemachine.networkhome':
